@@ -6,6 +6,6 @@ Resource from Internet.
 * [Data Structure Visualizations (算法可视化)](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ### 工具
-* [KeePassXC (本地密码保存软件)](https://github.com/keepassxreboot/keepassxc)
+* [KeePassXC (本地密码保存软件)](https://keepassxc.org/)
 * [MarkText (Markdown文本编辑器)](https://github.com/marktext/marktext)
 * [Python-offer (Python面试题)](https://github.com/JushuangQiao/Python-Offer)
