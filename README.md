@@ -8,3 +8,4 @@ Resource from Internet.
 ### 工具
 * [KeePassXC (本地密码保存软件)](https://github.com/keepassxreboot/keepassxc)
 * [MarkText (Markdown文本编辑器)](https://github.com/marktext/marktext)
+* [Python-offer (Python面试题)](https://github.com/JushuangQiao/Python-Offer)
