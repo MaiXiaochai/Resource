@@ -16,3 +16,5 @@ Resource from Internet.
 ### 教程
 
 * [用Hexo搭建Github主页](http://blog.haoji.me/build-blog-website-by-hexo-github.html?from=xa)
+* [hexo主题选择页](https://hexo.io/themes/)
+* [GoDaddy域名购买网站](https://sg.godaddy.com/zh)
