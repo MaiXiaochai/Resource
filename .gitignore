@@ -1,5 +1,5 @@
 *.config.toml
 *.idea/
 *.~$lock
-*/.idea
+**/.idea
 *./__pycache__
