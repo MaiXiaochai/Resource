@@ -12,6 +12,7 @@ Resource from Internet.
 
 * [KeePassXC (本地密码保存软件)](https://github.com/keepassxreboot/keepassxc)
 * [MarkText (Markdown文本编辑器)](https://github.com/marktext/marktext)
+* [英文字母转ASCII码画](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 
 ### 教程
 
