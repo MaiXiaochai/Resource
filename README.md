@@ -13,9 +13,11 @@ Resource from Internet.
 * [KeePassXC (本地密码保存软件)](https://github.com/keepassxreboot/keepassxc)
 * [MarkText (Markdown文本编辑器)](https://github.com/marktext/marktext)
 * [英文字母转ASCII码画](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
+* [微软系统镜像下载站](http://msdn.itellyou.cn/)
 
 ### 教程
 
 * [用Hexo搭建Github主页](http://blog.haoji.me/build-blog-website-by-hexo-github.html?from=xa)
 * [hexo主题选择页](https://hexo.io/themes/)
 * [GoDaddy域名购买网站](https://sg.godaddy.com/zh)
+
