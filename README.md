@@ -7,6 +7,7 @@ Resource from Internet.
 * [AlgorithmsByPython-LeetCode (用Python写成的算法)](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)
 * [Data Structure Visualizations (算法可视化)](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 * [Python-offer (Python面试题)](https://github.com/JushuangQiao/Python-Offer)
+* [英文原版电子书下载](https://salttiger.com/)
 
 ### 工具
 
