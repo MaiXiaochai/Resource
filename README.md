@@ -16,7 +16,6 @@ Resource from Internet.
 * [英文字母转ASCII码画](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 * [微软系统镜像下载站](http://msdn.itellyou.cn/)
 * [ip定位](https://www.opengps.cn/Data/IP/LocHighAcc.aspx)
-* [BootCDN，国内Bootstrap加速网站](<https://www.bootcdn.cn/>)
 
 ### 教程
 
