@@ -1,6 +1,6 @@
 # Resource
 
-一些优质的资源，都已验证。
+一些优质的资源，都已验证。<br>
 Resource from Internet.
 
 ### 资料
