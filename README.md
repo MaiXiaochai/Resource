@@ -14,12 +14,17 @@ Resource from Internet.
 ### 工具
 
 * [回形针手册—生活方方面面的硬核资料](https://ipaperclip.net/)
-* [KeePassXC (本地密码保存软件)](https://github.com/keepassxreboot/keepassxc)
-* [MarkText (Markdown文本编辑器)](https://github.com/marktext/marktext)
 * [英文字母转ASCII码画](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 * [物联网设备搜索引擎](https://www.shodan.io/)
 * [微软系统镜像下载站](http://msdn.itellyou.cn/)
 * [ip定位](https://www.opengps.cn/Data/IP/LocHighAcc.aspx)
+
+### 软件
+
++ [Typora—MarkDown编辑器](https://www.typora.io/)
++ [GifCam—小巧强悍的GitCam录制工具](https://c7sky.com/gifcam.html)
++ [KeePassXC (本地密码保存软件)](https://github.com/keepassxreboot/keepassxc)
+
 
 ### 教程
 
