@@ -5,7 +5,7 @@ Resource from Internet.
 ### 资料
 
 * [中文机器学习资源](github.com/apachecn/AiLearning)
-* [机器学习路线图（中文）]([https://ailearning.apachecn.org](https://ailearning.apachecn.org/))
+* [机器学习路线图（中文）](https://ailearning.apachecn.org/)
 * [AlgorithmsByPython-LeetCode (用Python写成的算法)](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)
 * [Data Structure Visualizations (算法可视化)](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 * [Python-offer (Python面试题)](https://github.com/JushuangQiao/Python-Offer)
