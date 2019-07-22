@@ -17,8 +17,10 @@ Resource from Internet.
 * [回形针手册—生活方方面面的硬核资料](https://ipaperclip.net/)
 * [英文字母转ASCII码画](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 * [物联网设备搜索引擎](https://www.shodan.io/)
+* [人脸搜索-5亿网站数据匹配](https://pimeyes.com/cn/)
 * [微软系统镜像下载站](http://msdn.itellyou.cn/)
 * [ip定位](https://www.opengps.cn/Data/IP/LocHighAcc.aspx)
+* 
 
 ### 软件
 
@@ -32,6 +34,7 @@ Resource from Internet.
 * [用Hexo搭建Github主页](http://blog.haoji.me/build-blog-website-by-hexo-github.html?from=xa)
 * [hexo主题选择页](https://hexo.io/themes/)
 * [GoDaddy域名购买网站](https://sg.godaddy.com/zh)
+* [网络安全硬件列表](https://github.com/yadox666/The-Hackers-Hardware-Toolkit)
 
 ### 高质量网站
 
