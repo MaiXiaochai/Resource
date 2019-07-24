@@ -5,6 +5,7 @@ Resource from Internet.
 
 ### 资料
 
+* [概率论可视化网站](https://seeing-theory.brown.edu/cn.html)
 * [中文机器学习资源](github.com/apachecn/AiLearning)
 * [机器学习路线图（中文）](https://ailearning.apachecn.org/)
 * [AlgorithmsByPython-LeetCode (用Python写成的算法)](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)
