@@ -24,6 +24,7 @@ Resource from Internet.
 * [微软系统镜像下载站](http://msdn.itellyou.cn/)
 * [ip定位](https://www.opengps.cn/Data/IP/LocHighAcc.aspx)
 * [flaction-免费扁平图标搜索](https://www.flaticon.com/)
+* [矢量图标](https://www.iconfont.cn/)
 
 ### 软件
 
