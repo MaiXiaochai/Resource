@@ -25,6 +25,12 @@ Resource from Internet.
 * [ip定位](https://www.opengps.cn/Data/IP/LocHighAcc.aspx)
 * [flaction-免费扁平图标搜索](https://www.flaticon.com/)
 * [矢量图标](https://www.iconfont.cn/)
+* **视频**
+  * [视频开头制作-panzoid](https://panzoid.com/)
+* **字体**
+  * [字体家-免费商用字体](https://www.zitijia.com/)
+* **论文**
+  * [iData-论文搜索下载](https://www.cn-ki.net/)
 
 ### 软件
 
