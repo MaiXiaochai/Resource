@@ -13,6 +13,7 @@ Resource from Internet.
 * [Data Structure Visualizations (算法可视化)](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 * [Python-offer (Python面试题)](https://github.com/JushuangQiao/Python-Offer)
 * [英文原版电子书下载](https://salttiger.com/)
+* [电子版图书--鸠摩搜索](https://www.jiumodiary.com/)
 * [维基百科-600G敏感文件](https://file.wikileaks.org/file/)
 
 ### 工具
