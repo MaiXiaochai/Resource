@@ -47,6 +47,10 @@ Resource from Internet.
   * [用Hexo搭建Github主页](http://blog.haoji.me/build-blog-website-by-hexo-github.html?from=xa)
   * [hexo主题选择页](https://hexo.io/themes/)
   * [GoDaddy域名购买网站](https://sg.godaddy.com/zh)
+  * **后台管理模板**
+    + [tabler(Bootstrap4)]( https://github.com/tabler/tabler )
+    + [ ant-design-pro ]( https://github.com/ant-design/ant-design-pro )
+    + [ngx-admin(Angular8/Nebular)]( https://github.com/akveo/ngx-admin )
 * **网络安全**
   * [网络安全硬件列表](https://github.com/yadox666/The-Hackers-Hardware-Toolkit)
 
