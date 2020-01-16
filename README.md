@@ -1,8 +1,8 @@
-<center style="font-size:36px;">Resource</center>
+Resource
+---
+一些优质的资源，收集自网络。
 
 ---
-一些优质的资源。<br>
-From Internet.
 
 ##### 资料
 
