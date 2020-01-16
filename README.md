@@ -1,9 +1,10 @@
-# Resource
+<center style="font-size:36px;">Resource</center>
 
+---
 一些优质的资源。<br>
-Resource from Internet.
+From Internet.
 
-### 资料
+##### 资料
 
 * [技术书籍](https://github.com/KeKe-Li/book)
 * [可视化概率论网站](https://seeing-theory.brown.edu/cn.html)
@@ -16,7 +17,7 @@ Resource from Internet.
 * [电子版图书--鸠摩搜索](https://www.jiumodiary.com/)
 * [维基百科-600G敏感文件](https://file.wikileaks.org/file/)
 
-### 工具
+##### 工具
 
 * [回形针手册—生活方方面面的硬核资料](https://ipaperclip.net/)
 * [英文字母转ASCII码画](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
@@ -33,13 +34,16 @@ Resource from Internet.
 * **论文**
   * [iData-论文搜索下载](https://www.cn-ki.net/)
 
-### 软件
++ **仿真**
+  + [物理引擎--taichi(Python)](https://github.com/taichi-dev/taichi)
+
+##### 软件
 
 + [Typora—MarkDown编辑器](https://www.typora.io/)
 + [GifCam—小巧强悍的GitCam录制工具](http://blog.bahraniapps.com/gifcam/)
-+ [KeePassXC (本地密码保存软件)](https://github.com/keepassxreboot/keepassxc)
++ [KeePassXC (本地密码保存和生成软件)](https://github.com/keepassxreboot/keepassxc)
 
-### 教程
+##### 教程
 
 * **Web**
   * [Flask前后分离](https://frostming.com/tag/flask)
@@ -53,7 +57,13 @@ Resource from Internet.
 * **网络安全**
   * [网络安全硬件列表](https://github.com/yadox666/The-Hackers-Hardware-Toolkit)
 
-### 高质量分享网站
+##### 高质量分享网站
 
 + [小影志—高质量分享](https://c7sky.com/)
 
+---
+##### 结束
+
++ 作		者：MaiXiaochai
++ 创建时间：2010年4月22日 14:53
++ 修改时间：2020年1月16日 20:17
