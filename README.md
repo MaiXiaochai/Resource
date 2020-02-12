@@ -45,6 +45,9 @@ Resource
 
 ##### 教程
 
++ **通用技术**
+  + [Git学习--操作可视化，界面友好](https://learngitbranching.js.org/)
+
 * **Web**
   * [Flask前后分离](https://frostming.com/tag/flask)
   * [用Hexo搭建Github主页](http://blog.haoji.me/build-blog-website-by-hexo-github.html?from=xa)
@@ -66,4 +69,4 @@ Resource
 
 + 作		者：MaiXiaochai
 + 创建时间：2010年4月22日 14:53
-+ 修改时间：2020年1月16日 20:17
++ 修改时间：2020年2月12日 9:12
