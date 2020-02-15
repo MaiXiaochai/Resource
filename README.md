@@ -2,8 +2,6 @@ Resource
 ---
 一些优质的资源。
 
----
-
 ##### 资料
 
 * [技术书籍](https://github.com/KeKe-Li/book)
@@ -20,6 +18,7 @@ Resource
 ##### 工具
 
 * [回形针手册—生活方方面面的硬核资料](https://ipaperclip.net/)
+* [中国大百科全书数据库](http://h.bkzx.cn/)
 * [英文字母转ASCII码画](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 * [物联网设备搜索](https://www.shodan.io/)
 * [人脸搜索-5亿网站数据匹配](https://pimeyes.com/cn/)
@@ -42,6 +41,12 @@ Resource
 + [Typora—MarkDown编辑器](https://www.typora.io/)
 + [GifCam—小巧强悍的GitCam录制工具](http://blog.bahraniapps.com/gifcam/)
 + [KeePassXC (本地密码保存和生成软件)](https://github.com/keepassxreboot/keepassxc)
++ [Diffinity—文件对比软件(轻量级)](http://truehumandesign.se/s_diffinity.php)
++ [SpaceDesk—把任意一块屏幕作为第二屏的软件（科学上网）](https://spacedesk.net/)
++ [EasyService—让程序以 Windows 系统服务的方式，无窗口运行](https://github.com/pandolia/easy-service)
++ [Cloaker—文件加密软件](https://github.com/spieglt/Cloaker)
++ [berrycast—屏幕录制软件](https://www.berrycast.com/)
++ [Captura—录屏软件](https://github.com/MathewSachin/Captura)
 
 ##### 教程
 
@@ -68,5 +73,5 @@ Resource
 ##### 结束
 
 + 作		者：MaiXiaochai
-+ 创建时间：2010年4月22日 14:53
-+ 修改时间：2020年2月12日 9:12
++ 创建时间：2010年4月22日
++ 修改时间：2020年2月15日
