@@ -1,19 +1,24 @@
 Resource
 ---
-一些优质的资源。
+收集的一些优质的资源。
 
 ##### 资料
 
-* [技术书籍](https://github.com/KeKe-Li/book)
-* [可视化概率论网站](https://seeing-theory.brown.edu/cn.html)
-* [中文机器学习资源](github.com/apachecn/AiLearning)
-* [机器学习路线图（中文）](https://ailearning.apachecn.org/)
-* [AlgorithmsByPython-LeetCode (用Python写成的算法)](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)
-* [Data Structure Visualizations (算法可视化)](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-* [Python-offer (Python面试题)](https://github.com/JushuangQiao/Python-Offer)
-* [英文原版电子书下载](https://salttiger.com/)
-* [电子版图书--鸠摩搜索](https://www.jiumodiary.com/)
-* [维基百科-600G敏感文件](https://file.wikileaks.org/file/)
++ **综合资料**
+  + [技术书籍](https://github.com/KeKe-Li/book)
+  + [可视化概率论网站](https://seeing-theory.brown.edu/cn.html)
+  + [中文机器学习资源](github.com/apachecn/AiLearning)
+  + [机器学习路线图（中文）](https://ailearning.apachecn.org/)
+  + [AlgorithmsByPython-LeetCode (用Python写成的算法)](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)
+  + [Data Structure Visualizations (算法可视化)](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+  + [Python-offer (Python面试题)](https://github.com/JushuangQiao/Python-Offer)
+  + [英文原版电子书下载](https://salttiger.com/)
+    + [《云原生基础架构》](https://github.com/rootsongjc/cloud-native-infra/releases/tag/v20200214)
+  + [电子版图书--鸠摩搜索](https://www.jiumodiary.com/)
+  + [维基百科-600G敏感文件](https://file.wikileaks.org/file/)
++ **编程语言**
+  + **GoLang**
+    + [Go by example—中文版](https://books.studygolang.com/gobyexample/)
 
 ##### 工具
 
@@ -74,4 +79,4 @@ Resource
 
 + 作		者：MaiXiaochai
 + 创建时间：2010年4月22日
-+ 修改时间：2020年2月15日
++ 修改时间：2020年2月17日
