@@ -56,7 +56,8 @@ Resource
 ##### 教程
 
 + **通用技术**
-  + [Git学习--操作可视化，界面友好](https://learngitbranching.js.org/)
+  + [Git学习—操作可视化，界面友好](https://learngitbranching.js.org/)
+  + [Lyft的云原生机器学习和数据处理平台—Flyte](https://flyte.org/)
 
 * **Web**
   * [Flask前后分离](https://frostming.com/tag/flask)
@@ -75,8 +76,12 @@ Resource
 + [小影志—高质量分享](https://c7sky.com/)
 
 ---
-##### 结束
+##### 文档修改历史
 
-+ 作		者：MaiXiaochai
-+ 创建时间：2010年4月22日
-+ 修改时间：2020年2月17日
++ [2020-02-20]
+  + 添加 [Lyft的云原生机器学习和数据处理平台—Flyte](https://flyte.org/)
++ [2020-04-22]
+  + 创建文档
+
+---
++ 作者：MaiXiaochai
