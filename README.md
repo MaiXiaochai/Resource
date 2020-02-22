@@ -58,6 +58,7 @@ Resource
 + **通用技术**
   + [Git学习—操作可视化，界面友好](https://learngitbranching.js.org/)
   + [Lyft的云原生机器学习和数据处理平台—Flyte](https://flyte.org/)
+  + [Argo—工作流(GoLang）](https://github.com/argoproj/argo)
 
 * **Web**
   * [Flask前后分离](https://frostming.com/tag/flask)
