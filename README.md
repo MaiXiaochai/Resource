@@ -1,5 +1,4 @@
-Resource
----
+# Resource
 收集的一些优质的资源。
 
 ##### 资料
@@ -44,21 +43,22 @@ Resource
 ##### 软件
 
 + [Typora—MarkDown编辑器](https://www.typora.io/)
-+ [GifCam—小巧强悍的GitCam录制工具](http://blog.bahraniapps.com/gifcam/)
++ [GifCam—小巧强悍的Gif录制工具](http://blog.bahraniapps.com/gifcam/)
++ [Captura—录屏软件](https://github.com/MathewSachin/Captura)
 + [KeePassXC (本地密码保存和生成软件)](https://github.com/keepassxreboot/keepassxc)
 + [Diffinity—文件对比软件(轻量级)](http://truehumandesign.se/s_diffinity.php)
 + [SpaceDesk—把任意一块屏幕作为第二屏的软件（科学上网）](https://spacedesk.net/)
 + [EasyService—让程序以 Windows 系统服务的方式，无窗口运行](https://github.com/pandolia/easy-service)
-+ [Cloaker—文件加密软件](https://github.com/spieglt/Cloaker)
-+ [berrycast—屏幕录制软件](https://www.berrycast.com/)
-+ [Captura—录屏软件](https://github.com/MathewSachin/Captura)
++ [Cloaker—轻量文件加密软件](https://github.com/spieglt/Cloaker)
+
 
 ##### 教程
 
 + **通用技术**
   + [Git学习—操作可视化，界面友好](https://learngitbranching.js.org/)
-  + [Lyft的云原生机器学习和数据处理平台—Flyte](https://flyte.org/)
-  + [Argo—工作流(GoLang）](https://github.com/argoproj/argo)
+  + **近期使用**
+    + [Lyft的云原生机器学习和数据处理平台—Flyte](https://flyte.org/)
+    + [Argo—工作流(GoLang）](https://github.com/argoproj/argo)
 
 * **Web**
   * [Flask前后分离](https://frostming.com/tag/flask)
