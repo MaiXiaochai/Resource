@@ -50,7 +50,6 @@
 + **设计**
    + [Dimensions--物体尺寸库](https://www.dimensions.guide/)
    + [RemoveBG--在线抠图](https://www.remove.bg/zh)
-   + []()
 + **PPT**
   + **灵感**
     + [envato--设计界的领头羊](https://elements.envato.com/)
@@ -100,6 +99,8 @@
     + [Lyft的云原生机器学习和数据处理平台—Flyte](https://flyte.org/)
     + [Argo—工作流(GoLang）](https://github.com/argoproj/argo)
     + [《云原生基础架构中文版》](https://github.com/rootsongjc/cloud-native-infra/releases/tag/v20200214)
+    + [《HTTP API设计指南》](https://github.com/ZhangBohan/http-api-design-ZH_CN)
+    + 
   
 + **专业课程**
   + [可汗学院--英文优质学校课程](https://www.khanacademy.org/)
@@ -133,6 +134,9 @@
 
 ---
 ##### 文档修改历史
+
++ [2020-04-02]
+  + 添加[《HTTP API设计指南》](https://github.com/ZhangBohan/http-api-design-ZH_CN)
 
 + [2020-03-03]
   + 添加了很多优秀的资源
