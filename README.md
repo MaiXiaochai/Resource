@@ -50,6 +50,7 @@
 + **设计**
    + [Dimensions--物体尺寸库](https://www.dimensions.guide/)
    + [RemoveBG--在线抠图](https://www.remove.bg/zh)
+   + [各种前端效果源码](http://www.jq22.com/)
 + **PPT**
   + **灵感**
     + [envato--设计界的领头羊](https://elements.envato.com/)
