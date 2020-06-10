@@ -6,8 +6,10 @@
 + **综合资料**
   + [可视化概率论网站](https://seeing-theory.brown.edu/cn.html)
   + [机器学习路线图（中文）](https://ailearning.apachecn.org/)
-  + [AlgorithmsByPython-LeetCode (用Python写成的算法)](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)
-  + [Data Structure Visualizations (算法可视化)](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+  + **算法**
+    + [基于LeetCode，举一反三，通俗易懂](https://github.com/labuladong/fucking-algorithm)
+    + [AlgorithmsByPython-LeetCode (用Python写成的算法)](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)
+    + [Data Structure Visualizations (算法可视化)](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
   + [Python-offer (Python面试题)](https://github.com/JushuangQiao/Python-Offer)
   + **电子书下载**
     + [古腾堡计划(Project Gutenberg)--始于 1971](https://dev.gutenberg.org/)
