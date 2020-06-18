@@ -4,7 +4,7 @@
 ##### 1. 猿奋
 
 + **编程语言**
-  + **`GoLang`**
+  + **Golang**
     + [Go by example—中文版](https://books.studygolang.com/gobyexample/)
 
 + **算法**
@@ -36,7 +36,6 @@
 + **软件和技能**
   + **软件**
     + [Typora—MarkDown编辑器](https://www.typora.io/)
-    + 
   + **技能**
     + [Git学习—操作可视化，界面友好](https://learngitbranching.js.org/)
 
