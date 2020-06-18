@@ -146,6 +146,9 @@
 
 + **调度参考**
   + [Argo—工作流(GoLang）](https://github.com/argoproj/argo)
++ **流程自动化**
+  + [RPA-Python](https://github.com/tebelorg/RPA-Python)
+
 + **红与黑**
   + [维基百科-600G敏感文件](https://file.wikileaks.org/file/)
 
