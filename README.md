@@ -4,13 +4,14 @@
 ##### 1. 猿奋
 
 + **编程语言**
-  + **Golang**
+  + **GoLang**
     + [Go by example—中文版](https://books.studygolang.com/gobyexample/)
 
 + **算法**
   + [Data Structure Visualizations (算法可视化)](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
   + [基于LeetCode，举一反三，通俗易懂](https://github.com/labuladong/fucking-algorithm)
   + [AlgorithmsByPython-LeetCode (用Python写成的算法)](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)
+  + [Learn X in Y minutes(包括很多简短的入门教程--算法、编程语言、开发工具)](https://learnxinyminutes.com/)
 + **网络安全**
   * [网络安全硬件列表](https://github.com/yadox666/The-Hackers-Hardware-Toolkit)
 + **计算机网络**
@@ -45,6 +46,7 @@
   + [salttiger--编程类英文原版](https://salttiger.com/)
   + [技术书籍](https://github.com/KeKe-Li/book)
 + **非`IT`**
+  + [ZLibrary.Global(中外文都能搜到)](https://b-ok.global/)
   + [古腾堡计划(Project Gutenberg)--始于 1971](https://dev.gutenberg.org/)
   + [Library Genesis--电子书搜索](http://gen.lib.rus.ec/)
   + [电子版图书--鸠摩搜索](https://www.jiumodiary.com/)
@@ -52,7 +54,6 @@
   + [内酷网--百度网盘下载](http://neikuw.com/)
   + [高清PDF电子书分享--外文原版较多](https://hdpdf.blog/)
   + [Kindle电子书分享网](https://book.51read.site/)
-  + [雅书](https://yabook.org/)
   + [ZLibrary--俄罗斯的免费图书网站，有中文版](https://zh.b-ok.cc/)
   + [中国国家数字图书馆--注册后可在线阅读](http://www.nlc.cn/)
 
