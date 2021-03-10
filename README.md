@@ -43,18 +43,15 @@
 ##### 2. **电子书**
 
 + **`IT`技术**
+  + [极客图书](https://jikbook.com/)
   + [salttiger--编程类英文原版](https://salttiger.com/)
   + [技术书籍](https://github.com/KeKe-Li/book)
 + **非`IT`**
-  + [ZLibrary.Global(中外文都能搜到)](https://b-ok.global/)
+  + [ZLibrary.Global(中外文都能搜到，需科学上网)](https://b-ok.global/)
   + [古腾堡计划(Project Gutenberg)--始于 1971](https://dev.gutenberg.org/)
   + [Library Genesis--电子书搜索](http://gen.lib.rus.ec/)
   + [电子版图书--鸠摩搜索](https://www.jiumodiary.com/)
   + [读书小站--百度网盘下载](https://ibooks.org.cn/)
-  + [内酷网--百度网盘下载](http://neikuw.com/)
-  + [高清PDF电子书分享--外文原版较多](https://hdpdf.blog/)
-  + [Kindle电子书分享网](https://book.51read.site/)
-  + [ZLibrary--俄罗斯的免费图书网站，有中文版](https://zh.b-ok.cc/)
   + [中国国家数字图书馆--注册后可在线阅读](http://www.nlc.cn/)
 
 ##### 3. 工具
