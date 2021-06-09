@@ -27,7 +27,7 @@
   + [机器学习路线图（中文）](https://ailearning.apachecn.org/)
   + [《可解释的机器学习--黑盒模型可解释性理解指南》](https://github.com/MingchaoZhu/InterpretableMLBook)
   + [卷积神经网络可视化](https://github.com/poloclub/cnn-explainer)
-  + [中文机器学习资源](github.com/apachecn/AiLearning)
+  + [中文机器学习资源](https://github.com/apachecn/AiLearning)
   + [Lyft的云原生机器学习和数据处理平台—Flyte](https://flyte.org/)
 
 + **架构**
@@ -45,11 +45,11 @@
 + **`IT`技术**
   + [极客图书](https://jikbook.com/)
   + [salttiger--编程类英文原版](https://salttiger.com/)
-  + [技术书籍](https://github.com/KeKe-Li/book)
+  + [技术书籍](https://github.com/KeKe-Li/books)
 + **非`IT`**
-  + [ZLibrary.Global(中外文都能搜到，需科学上网)](https://b-ok.global/)
+  + [ZLibrary.Global(中外文都能搜到，**[ 需科学上网]**](https://1lib.us/)
   + [古腾堡计划(Project Gutenberg)--始于 1971](https://dev.gutenberg.org/)
-  + [Library Genesis--电子书搜索](http://gen.lib.rus.ec/)
+  + [Library Genesis--电子书搜索，**[ 需科学上网]**]](http://gen.lib.rus.ec/)
   + [电子版图书--鸠摩搜索](https://www.jiumodiary.com/)
   + [读书小站--百度网盘下载](https://ibooks.org.cn/)
   + [中国国家数字图书馆--注册后可在线阅读](http://www.nlc.cn/)
@@ -61,7 +61,7 @@
   + [中国大百科全书数据库](http://h.bkzx.cn/)
   + [英文字母转ASCII码画](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
   + [物联网设备搜索](https://www.shodan.io/)
-  + [人脸搜索-5亿网站数据匹配](https://pimeyes.com/cn/)
+  + [人脸搜索-5亿网站数据匹配](https://pimeyes.com)
   + [微软系统镜像下载站](http://msdn.itellyou.cn/)
   + [ip定位](https://www.opengps.cn/Data/IP/LocHighAcc.aspx)
 + **视频**
@@ -150,6 +150,6 @@
   + [维基百科-600G敏感文件](https://file.wikileaks.org/file/)
 
 ---
-+ 作者：maixiaochai
++ 作者：[maixiaochai](https://github.com/MaiXiaochai)
 + Email: maixiaochai@outlook.com
 
