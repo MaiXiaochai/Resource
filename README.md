@@ -6,7 +6,6 @@
 + **编程语言**
   + **GoLang**
     + [Go by example—中文版](https://books.studygolang.com/gobyexample/)
-
 + **算法**
   + [Data Structure Visualizations (算法可视化)](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
   + [基于LeetCode，举一反三，通俗易懂](https://github.com/labuladong/fucking-algorithm)
@@ -22,14 +21,14 @@
   + [A路人--B站Up主，幽默的方式讲解各种英语疑难杂症](https://space.bilibili.com/391679/channel/detail?cid=62387)
   + [每日英语听力(APP和网站)点击句子，视频跳转到相应位置](http://dict.eudic.net/ting)
   + [译学馆--英语视频翻译](https://www.yxgapp.com/)
-
 + **机器学习**
   + [机器学习路线图（中文）](https://ailearning.apachecn.org/)
   + [《可解释的机器学习--黑盒模型可解释性理解指南》](https://github.com/MingchaoZhu/InterpretableMLBook)
   + [卷积神经网络可视化](https://github.com/poloclub/cnn-explainer)
   + [中文机器学习资源](https://github.com/apachecn/AiLearning)
   + [Lyft的云原生机器学习和数据处理平台—Flyte](https://flyte.org/)
-
++ **各种命令**
+  + [各种命令查询](http://lnmp.ailinux.net/)
 + **架构**
   + [《云原生基础架构中文版》](https://github.com/rootsongjc/cloud-native-infra/releases/tag/v20200214)
 + **面试**
