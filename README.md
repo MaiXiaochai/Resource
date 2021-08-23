@@ -48,7 +48,7 @@
 + **非`IT`**
   + [ZLibrary.Global(中外文都能搜到，**[ 需科学上网]**](https://1lib.us/)
   + [古腾堡计划(Project Gutenberg)--始于 1971](https://dev.gutenberg.org/)
-  + [Library Genesis--电子书搜索，**[ 需科学上网]**]](http://gen.lib.rus.ec/)
+  + [Library Genesis--电子书搜索，**[ 需科学上网]**](http://gen.lib.rus.ec/)
   + [电子版图书--鸠摩搜索](https://www.jiumodiary.com/)
   + [读书小站--百度网盘下载](https://ibooks.org.cn/)
   + [中国国家数字图书馆--注册后可在线阅读](http://www.nlc.cn/)
