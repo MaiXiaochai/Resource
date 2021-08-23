@@ -56,7 +56,6 @@
 ##### 3. 工具
 
 + **信息检索**
-  + [回形针手册—生活方方面面的硬核资料](https://ipaperclip.net/)
   + [中国大百科全书数据库](http://h.bkzx.cn/)
   + [英文字母转ASCII码画](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
   + [物联网设备搜索](https://www.shodan.io/)
