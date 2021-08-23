@@ -142,10 +142,17 @@
 + [wallhaven](http://wallhaven.cc/)
 + [netbian](https://pic.netbian.com/)
 
-##### 8. 其它
+##### 8.硬件
 
-+ **调度参考**
-  + [Argo—工作流(GoLang）](https://github.com/argoproj/argo)
++ **显示器**
+    + [显示器信息参数查询网站](https://www.displayspecifications.com/)
+    + [面板信息查询网站](https://www.panelook.cn/)
+    + **显示器测评网站**
+        + [rtings](www.rtings.com)
+        + [tftcentral](https://tftcentral.co.uk/)
+
+##### 9. 其它
+
 + **红与黑**
   + [维基百科-600G敏感文件](https://file.wikileaks.org/file/)
 
