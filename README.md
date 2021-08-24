@@ -32,7 +32,7 @@
 + **架构**
   + [《云原生基础架构中文版》](https://github.com/rootsongjc/cloud-native-infra/releases/tag/v20200214)
 + **面试**
-  + [Python-offer (Python面试题)](https://github.com/JushuangQiao/Python-Offer)
+  + 
 + **软件和技能**
   + **软件**
     + [Typora—MarkDown编辑器](https://www.typora.io/)
