@@ -150,6 +150,11 @@
     + **显示器测评网站**
         + [rtings](www.rtings.com)
         + [tftcentral](https://tftcentral.co.uk/)
++ **硬盘**
+    + `BackBlaze`年度硬盘报告
+    + `RAID`（待完善）
++ **台式机电源**
+    + 好电源，约一块钱一瓦
 
 ##### 9. 其它
 
