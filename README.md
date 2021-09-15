@@ -42,7 +42,6 @@
 ##### 2. **电子书**
 
 + **`IT`技术**
-  + [极客图书](https://jikbook.com/)
   + [salttiger--编程类英文原版](https://salttiger.com/)
   + [技术书籍](https://github.com/KeKe-Li/books)
 + **非`IT`**
