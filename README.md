@@ -6,6 +6,29 @@
 + **编程语言**
   + **GoLang**
     + [Go by example—中文版](https://books.studygolang.com/gobyexample/)
+  + **Python**
+    + **基础入门+进阶**
+      + [**Python 中文指南**](https://python.iswbm.com)
+      + [**Python 3 标准库实例教程**](https://learnku.com/docs/pymotw)
+      + [**Pycharm中文指南**](https://pycharm.iswbm.com/)
+    + **进阶**
+      + [**Python3-cookbook**](https://python3-cookbook.readthedocs.io)
+      + [Python黑魔法指南](https://magic.iswbm.com)
+      + **爬虫**：[Scrapy Cookbook](https://scrapy-cookbook.readthedocs.io/zh_CN/latest/)
+      + [Django Web框架](https://developer.mozilla.org/zh-CN/docs/learn/Server-side/Django)
+      + [Django REST Framework](https://zhuanlan.zhihu.com/djstudyteam)
+      + [Flask官方文档](http://www.pythondoc.com/flask/index.html)
+      + [Flask系统学习](http://www.pythondoc.com/)
+      + [魔法学院：Python (这个可能付费，但是免费的部分也有很多高质量内容)](http://www.nowamagic.net/academy/category/13/)
+      + [Python3源码剖析(完善中)](https://flaggo.github.io/python3-source-code-analysis/)
+      + [Python3.6源码分析](https://he11olx.com/)
+      + [Python3.8源码剖析（英文）](https://realpython.com/cpython-source-code-guide/)
+      + [Python Tips 设计模式](http://www.pythontip.com/python-patterns/detail/abstract_factory)
+    + **Python资源类**
+      + [书栈网](https://www.bookstack.cn/rank?tab=popular)
+      + [awesome-python](https://github.com/iswbm/awesome-python-cn)
+      + [PyCrumbs](https://github.com/kirang89/pycrumbs)
+      + [Python中文学习大本营](http://www.pythondoc.com/)
 + **算法**
   + [Data Structure Visualizations (算法可视化)](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
   + [基于LeetCode，举一反三，通俗易懂](https://github.com/labuladong/fucking-algorithm)
@@ -153,7 +176,7 @@
     + `BackBlaze`年度硬盘报告
     + `RAID`（待完善）
 + **台式机电源**
-    + 好电源，约一块钱一瓦
+    + 五毛钱或者以上一瓦的都是好电源
 
 ##### 9. 其它
 
