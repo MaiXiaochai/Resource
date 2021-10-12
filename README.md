@@ -74,6 +74,8 @@
   + [电子版图书--鸠摩搜索](https://www.jiumodiary.com/)
   + [读书小站--百度网盘下载](https://ibooks.org.cn/)
   + [中国国家数字图书馆--注册后可在线阅读](http://www.nlc.cn/)
+  + **科班课本**:
+    + [高教书苑（高等教育出版社旗下图书网站，只能在线浏览）](https://ebook.hep.com.cn/ebooks/index.html#/)
 
 ##### 3. 工具
 
