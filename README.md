@@ -36,6 +36,19 @@
   + [Learn X in Y minutes(包括很多简短的入门教程--算法、编程语言、开发工具)](https://learnxinyminutes.com/)
 + **网络安全**
   * [网络安全硬件列表](https://github.com/yadox666/The-Hackers-Hardware-Toolkit)
+  * **论坛**
+    * [看雪论坛](https://bbs.pediy.com)
+    * [吾爱破解](https://www.52pojie.cn)
+  * **媒体**
+    * [Freebuf](https://www.freebuf.com/)
+    * [安全牛](https://www.aqniu.com/)
+    * [安全客](https://www.anquanke.com/)
+  * **安全研究团队**
+    * [玄武安全实验室（腾讯，**tombkeeper**领导）](https://xlab.tencent.com/cn/)
+    * [科恩安全实验室（腾讯 **吴石**）](https://keenlab.tencent.com/zh/index.html)
+    * [360核心安全技术博客](https://blogs.360.cn/)
+    * [冰刃实验室](https://www.iceswordlab.com/)
+    * [国外大佬**j00ru**的安全博客](https://j00ru.vexillium.org/)
 + **计算机网络**
   + [《HTTP API设计指南》](https://github.com/ZhangBohan/http-api-design-ZH_CN)
 + **数学**
