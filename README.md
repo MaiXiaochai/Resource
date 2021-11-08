@@ -29,6 +29,8 @@
       + [awesome-python](https://github.com/iswbm/awesome-python-cn)
       + [PyCrumbs](https://github.com/kirang89/pycrumbs)
       + [Python中文学习大本营](http://www.pythondoc.com/)
+    + **Python待测试资源**
+      + `GUI`库:`Gooey`(比`Thinker`简单)、`Thinker`(传统`Python``GUI`库)
 + **算法**
   + [Data Structure Visualizations (算法可视化)](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
   + [基于LeetCode，举一反三，通俗易懂](https://github.com/labuladong/fucking-algorithm)
