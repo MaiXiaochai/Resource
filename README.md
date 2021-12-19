@@ -3,7 +3,7 @@
 
 ##### 1. 猿奋
 
-+ 自托管项目集合
++ **自托管项目集合**
   + [awesome-selfhosted](https://github.com/awesome-selfhosted)
 
 + **编程语言**
