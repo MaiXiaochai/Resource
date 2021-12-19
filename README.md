@@ -3,6 +3,9 @@
 
 ##### 1. 猿奋
 
++ 自托管项目集合
+  + [awesome-selfhosted](https://github.com/awesome-selfhosted)
+
 + **编程语言**
   + **GoLang**
     + [Go by example—中文版](https://books.studygolang.com/gobyexample/)
