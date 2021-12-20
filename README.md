@@ -5,7 +5,6 @@
 
 + **自托管项目集合**
   + [awesome-selfhosted](https://github.com/awesome-selfhosted)
-
 + **编程语言**
   + **GoLang**
     + [Go by example—中文版](https://books.studygolang.com/gobyexample/)
@@ -27,6 +26,8 @@
       + [Python3.6源码分析](https://he11olx.com/)
       + [Python3.8源码剖析（英文）](https://realpython.com/cpython-source-code-guide/)
       + [Python Tips 设计模式](http://www.pythontip.com/python-patterns/detail/abstract_factory)
+    + **`Python`可视化**
+      + [`cutecharts`，轻量，手绘风图表](https://github.com/cutecharts/cutecharts.py)
     + **Python资源类**
       + [书栈网](https://www.bookstack.cn/rank?tab=popular)
       + [awesome-python](https://github.com/iswbm/awesome-python-cn)
