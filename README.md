@@ -5,6 +5,18 @@
 
 + **自托管项目集合**
   + [awesome-selfhosted](https://github.com/awesome-selfhosted)
++ **跨平台应用**
+  + [**Electron—用javaScript、HTML和CSS构建跨平台的桌面应用**](https://www.electronjs.org/)
+    + **开发的应用**
+      + Visual Studio Code
+      + WhatsApp
+      + Twitch
+      + Slack
+      + InVision
+      + **Typora**
+
+  + 
+
 + **编程语言**
   + **GoLang**
     + [Go by example—中文版](https://books.studygolang.com/gobyexample/)
