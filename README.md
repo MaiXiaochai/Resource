@@ -41,15 +41,21 @@
   + [AlgorithmsByPython-LeetCode (用Python写成的算法)](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)
   + [Learn X in Y minutes(包括很多简短的入门教程--算法、编程语言、开发工具)](https://learnxinyminutes.com/)
 + **网络安全**
-  * [网络安全硬件列表](https://github.com/yadox666/The-Hackers-Hardware-Toolkit)
-  * **论坛**
+  + **硬件**
+    + [网络安全硬件列表](https://github.com/yadox666/The-Hackers-Hardware-Toolkit)
+  + **论坛和网站**
     * [看雪论坛](https://bbs.pediy.com)
     * [吾爱破解](https://www.52pojie.cn)
-  * **媒体**
+    * [JarvisOJ—浙江大学系统安全实验室CTF在线答题系统](https://www.jarvisoj.com/)
+    * [BUUCTF—安恒网安学习平台](https://buuoj.cn/challenges)
+    * [websec](http://www.websec.fr)
+    * [ringzeroctf—国外，范围广](https://ringzer0ctf.com/)
+    * [wargames—基于游戏的学习安全技术和概念的网站](http://overthewire.org/wargames/)
+  + **媒体**
     * [Freebuf](https://www.freebuf.com/)
     * [安全牛](https://www.aqniu.com/)
     * [安全客](https://www.anquanke.com/)
-  * **安全研究团队**
+  + **安全研究团队**
     * [玄武安全实验室（腾讯，**tombkeeper**领导）](https://xlab.tencent.com/cn/)
     * [科恩安全实验室（腾讯 **吴石**）](https://keenlab.tencent.com/zh/index.html)
     * [360核心安全技术博客](https://blogs.360.cn/)
