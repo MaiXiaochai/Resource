@@ -4,7 +4,14 @@
 ##### 1. 猿奋
 
 + **自托管项目集合**
-  + [awesome-selfhosted](https://github.com/awesome-selfhosted)
+  + [awesome-selfhosted，包含各种各样的自托管项目源码](https://github.com/awesome-selfhosted)
++ **可视化**
+  + `streamlit`，`Python`三方库，数据可视化框架
+
++ **服务器**
+  + [heroku, 云平台即服务，网易邮箱和QQ邮箱不能用于注册](https://www.heroku.com/)
+    + ![image-20211223150540241](E:\Code\github\Resource\README.assets\image-20211223150540241.png)
+
 + **跨平台应用**
   + [**Electron—用javaScript、HTML和CSS构建跨平台的桌面应用**](https://www.electronjs.org/)
     + **开发的应用**
@@ -16,7 +23,6 @@
       + **Typora**
 
   + 
-
 + **编程语言**
   + **GoLang**
     + [Go by example—中文版](https://books.studygolang.com/gobyexample/)
