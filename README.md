@@ -6,12 +6,12 @@
 + **自托管项目集合**
   + [awesome-selfhosted，包含各种各样的自托管项目源码](https://github.com/awesome-selfhosted)
 + **可视化**
+  + [`cutecharts`，轻量，手绘风图表](https://github.com/cutecharts/cutecharts.py)
   + `streamlit`，`Python`三方库，数据可视化框架
 
 + **服务器**
   + [heroku, 云平台即服务，网易邮箱和QQ邮箱不能用于注册](https://www.heroku.com/)
     + ![image-20211223151237562](README.assets/heroku.png)
-
 + **跨平台应用**
   + [**Electron—用javaScript、HTML和CSS构建跨平台的桌面应用**](https://www.electronjs.org/)
     + **开发的应用**
@@ -21,8 +21,6 @@
       + Slack
       + InVision
       + **Typora**
-
-  + 
 + **编程语言**
   + **GoLang**
     + [Go by example—中文版](https://books.studygolang.com/gobyexample/)
@@ -44,8 +42,6 @@
       + [Python3.6源码分析](https://he11olx.com/)
       + [Python3.8源码剖析（英文）](https://realpython.com/cpython-source-code-guide/)
       + [Python Tips 设计模式](http://www.pythontip.com/python-patterns/detail/abstract_factory)
-    + **`Python`可视化**
-      + [`cutecharts`，轻量，手绘风图表](https://github.com/cutecharts/cutecharts.py)
     + **Python资源类**
       + [书栈网](https://www.bookstack.cn/rank?tab=popular)
       + [awesome-python](https://github.com/iswbm/awesome-python-cn)
@@ -97,13 +93,9 @@
   + [各种命令查询](http://lnmp.ailinux.net/)
 + **架构**
   + [《云原生基础架构中文版》](https://github.com/rootsongjc/cloud-native-infra/releases/tag/v20200214)
-+ **面试**
-  + 
-+ **软件和技能**
-  + **软件**
-    + [Typora—MarkDown编辑器](https://www.typora.io/)
-  + **技能**
-    + [Git学习—操作可视化，界面友好](https://learngitbranching.js.org/)
++ **技能**
+  + [Git学习—操作可视化，界面友好](https://learngitbranching.js.org/)
+  + [`README.md`中标签的生成和使用](https://shields.io/)
 
 ##### 2. **电子书**
 
