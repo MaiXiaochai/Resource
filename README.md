@@ -1,5 +1,9 @@
 # Resource
-收集的一些优质的资源，不定期更新，欢迎拍砖。
+![user-repo](https://img.shields.io/badge/MaiXiaochai-Resource-brightgreen?style=float-square&logo=github&?link=https://github.com/MaiXiaochai&link=https://github.com/MaiXiaochai/Resource)![GitHub last commit](https://img.shields.io/github/last-commit/MaiXiaochai/Resource?style=flat-square)![GitHub commit activity](https://img.shields.io/github/commit-activity/y/MaiXiaochai/Resource)![GitHub contributors](https://img.shields.io/github/contributors/MaiXiaochai/Resource?style=flat-square)![GitHub repo size](https://img.shields.io/github/repo-size/MaiXiaochai/Resource?style=flat-square)
+
+收集的一些优质的资源，不定期更新。也欢迎通过`PR`补充。
+
+---
 
 ##### 1. 猿奋
 
@@ -219,6 +223,9 @@
 
 + **红与黑**
   + [维基百科-600G敏感文件](https://file.wikileaks.org/file/)
++ **其它优秀资源分享地址**
+  + [awesome，分享各种东西](https://github.com/sindresorhus/awesome)
+
 
 ---
 + 作者：[maixiaochai](https://github.com/MaiXiaochai)
