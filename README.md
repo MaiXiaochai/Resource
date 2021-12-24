@@ -1,5 +1,5 @@
 # Resource
-![user-repo](https://img.shields.io/badge/MaiXiaochai-Resource-brightgreen?style=float-square&logo=github)  ![GitHub last commit](https://img.shields.io/github/last-commit/MaiXiaochai/Resource?style=flat-square)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/MaiXiaochai/Resource?style=flat-square)  ![GitHub contributors](https://img.shields.io/github/contributors/MaiXiaochai/Resource?style=flat-square)  ![GitHub repo size](https://img.shields.io/github/repo-size/MaiXiaochai/Resource?style=flat-square)
+![user-repo](https://img.shields.io/badge/MaiXiaochai-Resource-brightgreen?style=float-square&logo=github&?link=https://github.com/MaiXiaochai/Resource)  ![GitHub last commit](https://img.shields.io/github/last-commit/MaiXiaochai/Resource?style=flat-square)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/MaiXiaochai/Resource?style=flat-square)  ![GitHub contributors](https://img.shields.io/github/contributors/MaiXiaochai/Resource?style=flat-square)  ![GitHub repo size](https://img.shields.io/github/repo-size/MaiXiaochai/Resource?style=flat-square)
 
 收集的一些优质的资源，不定期更新。也欢迎通过`PR`补充。
 
@@ -16,7 +16,7 @@
 + **服务器**
   + [heroku, 云平台即服务，网易邮箱和QQ邮箱不能用于注册](https://www.heroku.com/)
     + ![image-20211223151237562](README.assets/heroku.png)
-+ **跨平台应用**
++ **跨平台应用开发**
   + [**Electron—用javaScript、HTML和CSS构建跨平台的桌面应用**](https://www.electronjs.org/)
     + **开发的应用**
       + Visual Studio Code
@@ -25,6 +25,7 @@
       + Slack
       + InVision
       + **Typora**
+  + **[Flutter](https://flutter.dev/)**
 + **编程语言**
   + **GoLang**
     + [Go by example—中文版](https://books.studygolang.com/gobyexample/)
