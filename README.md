@@ -8,7 +8,7 @@
 ##### 1. 猿奋
 
 + **自托管项目集合**
-  + [awesome-selfhosted，包含各种各样的自托管项目源码](https://github.com/awesome-selfhosted)
+  + [awesome-selfhosted，包含各种各样的自托管项目源码](https://github.com/awesome-selfhosted/awesome-selfhosted)
 + **可视化**
   + [`cutecharts`，轻量，手绘风图表](https://github.com/cutecharts/cutecharts.py)
   + `streamlit`，`Python`三方库，数据可视化框架
