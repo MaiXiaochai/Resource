@@ -15,7 +15,7 @@
 
 + **服务器**
   + [heroku, 云平台即服务，网易邮箱和QQ邮箱不能用于注册](https://www.heroku.com/)
-    + ![image-20211223151237562](README.assets/heroku.png)
+    + ![image-20211223151237562](assets/heroku.png)
 + **跨平台应用开发**
   + [**Electron—用javaScript、HTML和CSS构建跨平台的桌面应用**](https://www.electronjs.org/)
     + **开发的应用**
