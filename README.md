@@ -80,6 +80,8 @@
     * [360核心安全技术博客](https://blogs.360.cn/)
     * [冰刃实验室](https://www.iceswordlab.com/)
     * [国外大佬**j00ru**的安全博客](https://j00ru.vexillium.org/)
+  + **其它资料**
+    + [《365天获取玄武实验室工作》](https://github.com/Vancir/365-days-get-xuanwulab-job)
 + **计算机网络**
   + [《HTTP API设计指南》](https://github.com/ZhangBohan/http-api-design-ZH_CN)
 + **数学**
