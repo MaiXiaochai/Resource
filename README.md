@@ -170,6 +170,9 @@
 + [Diffinity—文件对比软件(轻量级)](http://truehumandesign.se/s_diffinity.php)
 + [SpaceDesk—把另外任意一块屏幕作为第二屏的软件（科学上网）](https://spacedesk.net/)
 + [EasyService—让程序以 Windows 系统服务的方式，无窗口运行](https://github.com/pandolia/easy-service)
++ **B站：**
+  + [跨平台，B站视频下载软件](https://github.com/blogwy/BilibiliVideoDownload)
+
 
 ##### 5. 教程
 
