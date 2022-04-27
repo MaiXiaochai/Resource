@@ -228,8 +228,11 @@
     + 性能测试网站
         + https://gamepad-tester.com/
 
+##### 9. 应急储备
 
-##### 9. 其它
++ [根据已有粮食生成菜谱](https://cook.yunyoujun.cn/)
+
+##### 10. 其它
 
 + **红与黑**
   + [维基百科-600G敏感文件](https://file.wikileaks.org/file/)
