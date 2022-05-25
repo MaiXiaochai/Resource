@@ -234,6 +234,8 @@
 
 ##### 10. 其它
 
++ [乳腺癌AI检测(需要科学上网)](http://mammo.neuralrad.com:5300/)
+
 + **红与黑**
   + [维基百科-600G敏感文件](https://file.wikileaks.org/file/)
 + **其它优秀资源分享地址**
