@@ -219,6 +219,7 @@
     + **显示器测评网站**
         + [rtings](www.rtings.com)
         + [tftcentral](https://tftcentral.co.uk/)
+    + [刷新率测试-testufo](https://www.testufo.com/)
 + **硬盘**
     + `BackBlaze`年度硬盘报告
     + `RAID`（待完善）
