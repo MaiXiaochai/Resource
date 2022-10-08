@@ -213,6 +213,14 @@
 
 ##### 8.硬件
 
+- 台式机组装配置网站
+    - [365pcbuy](https://www.365pcbuy.com/)
+
+- CPU
+    - [CPU天梯-超能网](https://topic.expreview.com/CPU/)
+- 显卡
+    - [显卡天梯-超能网](https://topic.expreview.com/GPU/)
+
 + **显示器**
     + [显示器信息参数查询网站](https://www.displayspecifications.com/)
     + [面板信息查询网站](https://www.panelook.cn/)
@@ -224,7 +232,9 @@
     + `BackBlaze`年度硬盘报告
     + `RAID`（待完善）
 + **台式机电源**
+    + [电源天梯](https://topic.expreview.com/Power/)
     + 五毛钱或者以上一瓦的都是好电源
+    
 + **手柄**
     + 性能测试网站
         + https://gamepad-tester.com/
