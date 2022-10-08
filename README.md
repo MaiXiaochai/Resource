@@ -110,14 +110,14 @@
   + [salttiger--编程类英文原版](https://salttiger.com/)
   + [技术书籍](https://github.com/KeKe-Li/books)
 + **非`IT`**
+  + [皮皮书屋（2022-10-09可用）](https://www.pipibook.com/)
   + [ZLibrary.Global(中外文都能搜到，**[ 需科学上网]**](https://1lib.us/)
   + [古腾堡计划(Project Gutenberg)--始于 1971](https://dev.gutenberg.org/)
   + [Library Genesis--电子书搜索，**[ 需科学上网]**](http://gen.lib.rus.ec/)
   + [电子版图书--鸠摩搜索](https://www.jiumodiary.com/)
   + [读书小站--百度网盘下载](https://ibooks.org.cn/)
   + [中国国家数字图书馆--注册后可在线阅读](http://www.nlc.cn/)
-  + **科班课本**:
-    + [高教书苑（高等教育出版社旗下图书网站，只能在线浏览）](https://ebook.hep.com.cn/ebooks/index.html#/)
+  
 
 ##### 3. 工具
 
